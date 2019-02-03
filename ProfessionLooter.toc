@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: Profession Looter
+## Author: Ben Roberts
+## Notes: An extremely basic addon designed to autoloot BfA materials and quest items. No previous expansion materials are included at the moment
+## Version: 1.0
+
+ProfessionLooter.lua
